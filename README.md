@@ -4,6 +4,7 @@
 This is a python mini project for me for learning purposes. The idea and the source code came from the internet. Little changes have been made for some purposes, and I will not declare the originality of this project.
 
 # Usage
+Run "Random Password Generator.py".
 To input the length of the desire password.
 
 ```
