@@ -14,5 +14,5 @@ Then it returns a password, that created from capital letters, small letters, nu
 
 ```
 Enter the length of password: 12
-SeViM$O8WCzJ 
+SeViM$O8WCzJ
 ```
