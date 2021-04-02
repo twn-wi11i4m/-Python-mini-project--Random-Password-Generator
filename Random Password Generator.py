@@ -5,4 +5,4 @@ import random
 passwordlength = int(input("Enter the length of password: "))
 s = "abcdefghijklmnipqrstuvwxyz0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ@#$%"
 p = "".join(random.sample(s,passwordlength))
-print(p)
+print(p) 
